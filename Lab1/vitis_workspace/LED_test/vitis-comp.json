@@ -1,0 +1,15 @@
+{
+  "name": "LED_test",
+  "type": "HOST",
+  "platform": "D:\\Zynq_Book\\Lab1\\vitis_workspace\\zynq_platform\\export\\zynq_platform\\zynq_platform.xpfm",
+  "domain": "standalone_ps7_cortexa9_0",
+  "cpuInstance": "ps7_cortexa9_0",
+  "cpuType": "cortex-a9",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_ps7_cortexa9_0",
+  "applicationFlow": "EMBEDDED"
+}
